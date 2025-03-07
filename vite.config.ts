@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),tailwindcss(),
     
   ],
-  base: "/fetch-dogs-apps/",
+  base: "/fetch-dogs-app/",
 })
